@@ -1,0 +1,4 @@
+# config-client-dev.yml
+project:
+  version: 1.0.0
+  message: "Hello, 这是一个来自 Git 仓库的 Dev 环境配置！"
